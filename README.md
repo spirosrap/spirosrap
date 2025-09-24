@@ -1,4 +1,4 @@
-<h1 align="center">Spiros Raptiotis</h1>
+<h1 align="center">Spiros Raptis</h1>
 <p align="center"><strong>Systematic trader · AI builder</strong></p>
 <p align="center">Architecting resilient automated strategies with verifiable edges and guardrails.</p>
 
