@@ -1,6 +1,6 @@
 <h1 align="center">Spiros Raptis</h1>
 <p align="center"><strong>Systematic trader · AI builder</strong></p>
-<p align="center">Architecting resilient automated strategies with verifiable edges and guardrails.</p>
+<p align="center">Building transparent, autonomous trading systems with tested edges and built-in restraint.</p>
 
 <p align="center">
   📍 Thessaloniki, Greece · <a href="https://x.com/srdevb">X @srdevb</a>
@@ -78,6 +78,13 @@
 - 📏 Measure edge. Track MAE/MFE, expectancy, and regime.
 - 🧠 Prefer simple systems I fully understand.
 
+### Current Focus
+- 🤖 Integrating LLM-driven signal refinement and trade journaling.
+- 🧭 Automating post-trade diagnostics (MAE/MFE, expectancy, regime tagging).
+- 🧩 Designing meta-systems for versioned bot testing and scaling control.
+- 🔒 Combining emotional integrity protocols with system-level guardrails.
+
+
 ---
 
 ### Signals
@@ -90,7 +97,7 @@
 ---
 
 <p align="center">
-  <strong>Always open to chats about systematic trading, model risk, and building tiny but resilient tools.</strong>
+  <strong>Exploring the frontier where algorithmic precision meets emotional resilience.</strong>
 </p>
 <p align="center">
   <sub>Let’s connect if you want to ship something measurable together.</sub>
