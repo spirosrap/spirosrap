@@ -90,8 +90,8 @@
 ### Signals
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spirosrap&show_icons=true&hide_title=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirosrap&layout=compact" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spirosrap&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spirosrap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 ---
