@@ -1,96 +1,94 @@
-<h1 align="center">Spiros Raptis</h1>
-<p align="center"><strong>Systematic Trader · AI Systems Builder</strong></p>
-<p align="center">Engineering transparent, versioned trading systems with circuit breakers, regime logic, and psychological integrity.</p>
+# Spiros Raptis
 
-<p align="center">
-📍 Thessaloniki, Greece · <a href="https://x.com/srdevb">X @srdevb</a>
-</p>
+Systematic Trader · AI Systems Builder
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=spirosrap&color=1F75FE&style=flat-square">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/spirosrap?label=Follow&style=flat-square">
-  <img alt="Collaboration" src="https://img.shields.io/badge/Building%20real%20systems%20quietly-%F0%9F%9A%80-1F75FE?style=flat-square">
-</p>
+I build transparent, versioned trading systems with circuit breakers, regime logic, and execution guardrails—designed for measurable edge and psychological integrity.
+
+Thessaloniki, Greece · X: @srdevb
+
+![Profile views](https://komarev.com/ghpvc/?username=spirosrap&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/spirosrap?label=Followers&style=flat)
+![Collaboration](https://img.shields.io/badge/Collaboration-Open-2ea44f?style=flat)
 
 ---
 
-## What I’m Building Now
-- 📈 Versioned Bitcoin execution systems (v1.2.1f → scaling ladders with circuit breakers).
-- 🧠 LLM-driven diagnostics for MAE/MFE integrity, expectancy, and emotional overrides.
-- 🧪 Stability under pressure: controlled exposure, freeze windows, post-trade review protocols.
-- 🔧 Clean research-to-production flow: notebooks → Linux scripts → tmux pipelines → watchdogs.
+## What I’m building now
+
+- Versioned BTC execution systems (frozen rules, checkpoints, scaling ladders, circuit breakers)
+- MAE/MFE integrity tracking, expectancy monitoring, and regime-aware diagnostics
+- Automation pipeline: Linux scripts → tmux workflows → watchdogs → safe execution
+- Stability under pressure: defined freeze windows + post-trade review protocols
 
 ---
 
-## Signature Engineering
+## Signature engineering
 
-### 🔹 Automated Trading Stack — v1.2.1f
-A disciplined BTC execution engine featuring:
-- RSI signal with 1-bar confirmation  
-- Regime detection (ATR% + Trend Slope)  
-- Three pre-entry rejection filters for weak/uncertain regimes  
-- Live MAE/MFE watchdog  
-- Circuit breakers calibrated to emotional capacity  
-- Structured scaling protocol (Step 1 → Step 2 → monitored checkpoints)
+### Automated Trading Stack (BTC)
 
-All changes occur only at predefined checkpoints. No mid-cycle optimization.
+A disciplined execution engine built around:
+
+- RSI signal with confirmation
+- Regime detection (volatility + trend context)
+- Pre-entry rejection filters for weak / uncertain regimes
+- Live MAE/MFE watchdog + circuit breakers
+- Scaling ladder with monitored checkpoints
+- No mid-cycle optimization (changes only at checkpoints)
+
+Core intent: keep the system measurable, explainable, and safe to run under real pressure.
 
 ---
 
 ## Projects
 
-<div align="center">
-
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3><a href="https://github.com/spirosrap/flyingcar">flyingcar</a></h3>
       <p>Estimation, control, and planning fundamentals. Foundation for disciplined engineering.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3><a href="https://github.com/spirosrap/AI-for-Trading">AI-for-Trading</a></h3>
       <p>Research exercises and early explorations in feature engineering and ML-driven signals.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3><a href="https://github.com/spirosrap/Deep-Reinforcement-Learning">Deep-Reinforcement-Learning</a></h3>
       <p>PyTorch implementations of RL algorithms used to build intuition for dynamic decision systems.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3><a href="https://github.com/spirosrap/Udacity-queue-position">Udacity-queue-position</a></h3>
       <p>CLI tool for tracking review queue positions with clean, stable utility code.</p>
     </td>
   </tr>
 </table>
 
-</div>
-
 ---
 
 ## Toolbox
-`Python` `pandas` `NumPy` `PyTorch`  
-`scikit-learn` `Jupyter`  
-`TradingView` `Pine Script` `Coinbase Perps`  
-`Linux` `Docker` `tmux`  
-`VS Code` `Cursor`
+
+`Python` `pandas` `NumPy` `PyTorch` `scikit-learn` `Jupyter`  
+`Linux` `Docker` `tmux` `VS Code` `Cursor`  
+`TradingView` `Pine Script` `CCXT` `Coinbase Perps`
 
 ---
 
-## Operating Principles
-- 🛡️ Risk first: position sizing, SL/TP asymmetry, circuit breakers.
-- ❄️ Frozen rules: modify only at checkpoints with sufficient data.
-- 📏 Track edge: expectancy, MAE/MFE, regime shifts, volatility context.
-- 🧠 Build simple systems you fully understand before scaling complexity.
-- 🔬 Treat losses as data, not identity.
+## Operating principles
+
+- Risk first: sizing, SL/TP asymmetry, circuit breakers
+- Frozen rules: modify only at checkpoints with enough data
+- Track edge: expectancy, MAE/MFE, volatility context, regime shifts
+- Build simple systems you fully understand before scaling complexity
+- Losses are data, not identity
 
 ---
 
-## Current Focus
-- 🤖 LLM-assisted journaling, diagnostics, and signal triage.
-- 📡 Automated post-trade evaluation with regime tagging and edge tracking.
-- 🧩 Meta-system design: versioning, freeze windows, scaling ladders.
-- 🔒 Reinforcing psychological stability under increased margin conditions.
+## Current focus
+
+- LLM-assisted journaling, diagnostics, and signal triage
+- Automated post-trade evaluation with regime tagging and edge tracking
+- Meta-system design: versioning, freeze windows, scaling ladders
+- Reinforcing stability as margin increases
 
 ---
 
