@@ -2,9 +2,9 @@
 
 Systematic Trader · AI Systems Builder
 
-I build transparent, versioned trading systems with circuit breakers, regime logic, and execution guardrails—designed for measurable edge and psychological integrity.
+Building transparent, versioned crypto execution systems with regime logic, circuit breakers, and strict guardrails—for measurable edge and disciplined psychology.
 
-Thessaloniki, Greece · X: @srdevb
+Thessaloniki, Greece · X: [@srdevb](https://x.com/srdevb)
 
 ![Profile views](https://komarev.com/ghpvc/?username=spirosrap&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/spirosrap?label=Followers&style=flat)
@@ -14,10 +14,10 @@ Thessaloniki, Greece · X: @srdevb
 
 ## What I’m building now
 
-- Versioned BTC execution systems (frozen rules, checkpoints, scaling ladders, circuit breakers)
+- Versioned BTC execution systems with frozen rules and checkpointed upgrades
 - MAE/MFE integrity tracking, expectancy monitoring, and regime-aware diagnostics
-- Automation pipeline: Linux scripts → tmux workflows → watchdogs → safe execution
-- Stability under pressure: defined freeze windows + post-trade review protocols
+- Linux automation stack: scripts → tmux workflows → watchdogs → safe execution
+- Stability under pressure: freeze windows and post-trade review protocols
 
 ---
 
@@ -25,16 +25,15 @@ Thessaloniki, Greece · X: @srdevb
 
 ### Automated Trading Stack (BTC)
 
-A disciplined execution engine built around:
+A disciplined execution engine built for transparency and control:
 
-- RSI signal with confirmation
-- Regime detection (volatility + trend context)
-- Pre-entry rejection filters for weak / uncertain regimes
-- Live MAE/MFE watchdog + circuit breakers
+- Signal with confirmation + regime detection (volatility/trend context)
+- Pre-entry rejection filters for weak or uncertain regimes
+- Live MAE/MFE watchdogs and circuit breakers
 - Scaling ladder with monitored checkpoints
 - No mid-cycle optimization (changes only at checkpoints)
 
-Core intent: keep the system measurable, explainable, and safe to run under real pressure.
+Design intent: measurable, explainable, and safe to run under real pressure.
 
 ---
 
@@ -76,10 +75,9 @@ Core intent: keep the system measurable, explainable, and safe to run under real
 ## Operating principles
 
 - Risk first: sizing, SL/TP asymmetry, circuit breakers
-- Frozen rules: modify only at checkpoints with enough data
-- Track edge: expectancy, MAE/MFE, volatility context, regime shifts
-- Build simple systems you fully understand before scaling complexity
-- Losses are data, not identity
+- Frozen rules: change only at checkpoints with enough data
+- Track edge: expectancy, MAE/MFE, volatility context
+- Keep systems simple; losses are data
 
 ---
 
@@ -87,8 +85,7 @@ Core intent: keep the system measurable, explainable, and safe to run under real
 
 - LLM-assisted journaling, diagnostics, and signal triage
 - Automated post-trade evaluation with regime tagging and edge tracking
-- Meta-system design: versioning, freeze windows, scaling ladders
-- Reinforcing stability as margin increases
+- Meta-system design: versioning, freeze windows, scaling ladders, stability as margin scales
 
 ---
 
