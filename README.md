@@ -30,25 +30,6 @@ I build systems designed for clarity and control:
 
 Design intent: practical, explainable, and stable enough to use every day.
 
-* * *
-
-## Projects
-
-### [flyingcar](https://github.com/spirosrap/flyingcar)
-
-Estimation, control, and planning fundamentals. Foundation for disciplined engineering.
-
-### [AI-for-Trading](https://github.com/spirosrap/AI-for-Trading)
-
-Early work in data-driven modeling, signals, and applied ML.
-
-### [Deep-Reinforcement-Learning](https://github.com/spirosrap/Deep-Reinforcement-Learning)
-
-PyTorch implementations of RL algorithms used to build intuition for dynamic decision systems.
-
-### [Udacity-queue-position](https://github.com/spirosrap/Udacity-queue-position)
-
-CLI tool for tracking review queue positions with clean, stable utility code.
 
 * * *
 
