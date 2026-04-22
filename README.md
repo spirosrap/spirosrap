@@ -22,8 +22,8 @@ I like systems that are:
 
 - [udacity-mentor-dashboard-extension](https://github.com/spirosrap/udacity-mentor-dashboard-extension) — Chrome extension for mentor workflow improvements, including daily income tracking and queue auto-refresh
 - [CodexScreenshotBridge](https://github.com/spirosrap/CodexScreenshotBridge) — macOS menu-bar app that moves screenshots straight into a Codex workflow
-- [openclaw-skills](https://github.com/spirosrap/openclaw-skills) — skill library for AI agents covering crypto, automation, and utility workflows
-- [summarize](https://github.com/spirosrap/summarize) — summarize URLs, YouTube videos, podcasts, and files from CLI or extension
+- [coinbase-perps-lab](https://github.com/spirosrap/coinbase-perps-lab) — Rust-based lab and local dashboard for inspecting Coinbase INTX perpetual positions
+- [zt-report](https://github.com/spirosrap/zt-report) — shell utility that builds ZeroTier member status reports from local and Central API data
 - [crypto-finance](https://github.com/spirosrap/crypto-finance) — experiments and tooling around trading systems, research, and automation
 
 ## Working style
