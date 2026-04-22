@@ -2,7 +2,7 @@
 
 I build open-source tools, automation, and AI workflows.
 
-CV: [cv.md](./cv.md)
+CV: [Markdown](./cv.md) · [PDF](./cv.pdf)
 
 Most of my projects are small, practical pieces of software: CLI tools, browser extensions, local dashboards, workflow scripts, and agent systems that solve a real problem instead of pretending to be magic.
 
