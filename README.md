@@ -1,43 +1,44 @@
-# Hi, I'm Spiros
+# Spiros
 
-I build practical AI systems, browser automation, internal tools, and developer workflows.
+I build open-source tools, automation, and AI workflows.
 
-Most of what I make sits at the intersection of **software, automation, and AI**: dashboards, extensions, CLI tools, review pipelines, and agent workflows that need to be useful in the real world — not just clever in a demo.
+Most of my projects are small, practical pieces of software: CLI tools, browser extensions, local dashboards, workflow scripts, and agent systems that solve a real problem instead of pretending to be magic.
 
-I like systems that are:
+I like building things that are:
 
-- easy to inspect
-- easy to version
-- hard to break
-- actually worth using every day
+- inspectable
+- versioned
+- composable
+- boring in the good way
 
-## What I'm focused on
+## What I like working on
 
-- AI-assisted workflows for real work
+- AI systems with visible logic and guardrails
 - Browser and desktop automation
-- Internal tools and small products
-- Open-source infrastructure for agentic systems
+- Internal tools that save real time
+- Open-source infrastructure for agentic workflows
+- Weirdly useful software
 
-## Selected work
+## Selected projects
 
-- [udacity-mentor-dashboard-extension](https://github.com/spirosrap/udacity-mentor-dashboard-extension) — Chrome extension for mentor workflow improvements, including daily income tracking and queue auto-refresh
-- [CodexScreenshotBridge](https://github.com/spirosrap/CodexScreenshotBridge) — macOS menu-bar app that moves screenshots straight into a Codex workflow
-- [coinbase-perps-lab](https://github.com/spirosrap/coinbase-perps-lab) — Rust-based lab and local dashboard for inspecting Coinbase INTX perpetual positions
-- [zt-report](https://github.com/spirosrap/zt-report) — shell utility that builds ZeroTier member status reports from local and Central API data
-- [crypto-finance](https://github.com/spirosrap/crypto-finance) — experiments and tooling around trading systems, research, and automation
+- [coinbase-perps-lab](https://github.com/spirosrap/coinbase-perps-lab) — Rust lab and local dashboard for inspecting Coinbase INTX perpetual positions
+- [CodexScreenshotBridge](https://github.com/spirosrap/CodexScreenshotBridge) — Swift menu-bar app that moves screenshots straight into a Codex workflow
+- [udacity-mentor-dashboard-extension](https://github.com/spirosrap/udacity-mentor-dashboard-extension) — browser tooling for mentor workflow improvements, including daily income tracking and queue auto-refresh
+- [zt-report](https://github.com/spirosrap/zt-report) — shell script for building ZeroTier member status reports from local and Central API data
+- [crypto-finance](https://github.com/spirosrap/crypto-finance) — Python tooling and experiments around trading systems, research, and automation
 
-## Working style
+## Biases
 
-- Build the simplest thing that survives contact with reality
-- Prefer clarity over hype
-- Use AI where it helps, not where it hides the logic
-- Treat observability and guardrails as features, not cleanup
+- Build the simplest thing that survives real use
+- Start with scripts, earn the abstractions later
+- Prefer tools that are easy to inspect and modify
+- Use AI where it helps; don't use it to hide the logic
 
 ## Stack
 
-`Python` `JavaScript` `Pandas` `NumPy` `PyTorch` `Scikit-learn`
+`Python` `JavaScript` `Rust` `Swift` `Shell`
 `Linux` `Docker` `tmux` `CLI tools` `Browser extensions` `LLM workflows`
 
 Based in Thessaloniki, Greece.
 
-If you're building something practical and need automation, tooling, or AI systems that don't fall apart, let's talk.
+If you're into practical open source, automation, or useful software with sharp edges, we’ll probably get along.
