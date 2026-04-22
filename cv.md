@@ -1,5 +1,5 @@
 # Spiros Raptis
-**Software Engineer | Automation, Internal Tools, AI-Assisted Workflows**  
+**Automation Engineer | Internal Tools | AI-Assisted Workflows**  
 Thessaloniki, Greece · spirosrap@gmail.com · https://github.com/spirosrap
 
 Software engineer focused on automation, internal tools, browser workflows, and practical AI systems. I build software that improves real workflows: CLI tools, browser extensions, local dashboards, data tooling, and AI-assisted systems designed to be reliable, inspectable, and useful in day-to-day work.
